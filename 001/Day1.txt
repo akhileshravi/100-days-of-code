@@ -1,0 +1,2 @@
+Gave Practise ound for ACM-ICPC
+Working on a GUI software with Python for a Computersand  Cognition Project 
