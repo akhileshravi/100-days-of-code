@@ -1,0 +1,4 @@
+1. Gave ICPC Round 1
+2. Tracking Software:
+	a) Added Linux Console Emulator functionality to the software
+	b) Set ReadMe text and Code to be read from specific files
