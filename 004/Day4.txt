@@ -1,0 +1,2 @@
+Day 4:
+Gave a practise contest and a coding contest with questions based on string-handling, and arrays.
