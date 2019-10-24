@@ -1,0 +1,5 @@
+Day 7:
+Tracking Software:
+1. Resolved an error regarding task switching.
+2. Removed redundant code - reduced the code for manual pages and tasks by using a genralised function and the specific functions calling the generalised function.
+3. Made a box for manual page buttons.
