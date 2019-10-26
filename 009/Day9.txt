@@ -1,0 +1,4 @@
+Day 9:
+Worked on "Rushell: A Rust-based terminal."
+Added error handling to some of the functions and improved error handling that was already present in some oter functions.
+Resolved the error associated with the mov.rs
