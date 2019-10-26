@@ -1,0 +1,2 @@
+Made changes to the code logging system.
+Many of the functionalities have been added.
